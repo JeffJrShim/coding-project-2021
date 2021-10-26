@@ -103,14 +103,3 @@ h2{
     border-radius: 50px;
     border: 2px solid peachpuff;
   }
-  
-  .button2 {
-    background-color: white;
-    color: black;
-    border: 2px solid #ff0000;
-  }
-  
-  .button2:hover {
-    background-color: #008CBA;
-    color: white;
-  }
